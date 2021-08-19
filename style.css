@@ -1,0 +1,29 @@
+table { 
+    border-collapse: collapse;
+    border-width: 1px 2px 1px 1px;
+    margin-left: 150px;
+}
+
+body{
+    margin: 40px;    
+}
+
+#itens{
+    background-color: #FFB6C1;
+}
+button {
+    background: #B9DFFF;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow:none;
+}
+button:hover {
+    background: #DC143C;
+    color: #fff;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #eee;
+    text-shadow:none;
+}
