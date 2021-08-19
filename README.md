@@ -1,2 +1,4 @@
 # testeResale
-Desafio teste para a empresa Resale
+Desafio teste para seleção de estágio na empresa Resale.
+
+O teste consistia em criar o código de um carrinho de compras.
